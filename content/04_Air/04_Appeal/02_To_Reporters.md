@@ -1,0 +1,1 @@
+The key to this is, potentially, event-dependent. A train-line closure invokes different human behaviour than, for example, a developing traffic collision, or an ad-hoc press conference outside an embassy. These are all events we want reported, but we cannot expect the same human reaction in each.

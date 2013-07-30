@@ -1,0 +1,45 @@
+
+nav {
+	float: left;
+	position: fixed;
+	width: 230px;
+	padding: 20px;
+	background: #EEE;
+	font-weight: 700;
+	height: 100%;
+	overflow: auto;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0 0 0 1.5em;
+}
+
+.brand {
+	text-align: center;
+	display: block;
+	padding: 20px;
+	font-weight: 700;
+	background: #333;
+	color: #FFF;
+	margin-bottom: 10px;
+}
+
+a.brand:hover, a.brand:focus {
+	background: #666;
+	color: #FFF;
+}
+
+.content {
+	padding: 0 20px 20px 260px;
+	float: left;
+	max-width: 1100px;
+}
+
+.content hr {
+	border-top: 1px solid #CCC;
+}
+
+.content h1 {
+	margin-bottom: 20px;
+}
