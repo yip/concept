@@ -101,26 +101,19 @@ if ($homepage && $homepage_url !== '/') {
 
 </head>
 <body>
-	<?php if (0 && $homepage) { ?>
-		<!-- Hompage -->
-		<div style="text-align:center;padding:50px;">
-			<a style="color:white;font-size:3em;" href="intro">View Plan</a>
-		</div>
 
-	<?php } else { ?>
+	<a href="https://github.com/you"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
 
-		<nav>
-			<a class="brand" href="<?php echo $homepage_url;?>">
-				<?php echo $options['title']; ?>
-			</a>
-			<?php echo build_nav($tree); ?>
-		</nav>
-		<div class="content">
-			<article>
-				<?php echo load_page($tree); ?>
-			</article>
-		</div>
-
-	<?php } ?>
+	<nav>
+		<a class="brand" href="<?php echo $homepage_url;?>">
+			<?php echo $options['title']; ?>
+		</a>
+		<?php echo build_nav($tree); ?>
+	</nav>
+	<div class="content">
+		<article>
+			<?php echo load_page($tree); ?>
+		</article>
+	</div>
 </body>
 </html>
