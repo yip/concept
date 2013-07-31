@@ -43,3 +43,15 @@ a.brand:hover, a.brand:focus {
 .content h1 {
 	margin-bottom: 20px;
 }
+
+.ccLicense {
+	position: absolute;
+	bottom: 20px;
+	left: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.ccLicense img {
+
+}
