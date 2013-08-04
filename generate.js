@@ -19,7 +19,8 @@ gr.stdout.once('data', function(data) {
 			// Get actual mirrored site and save in ./static/
 			'mv ./static/localhost_8085 ./static_temp',
 			'rm -rf ./static',
-			'mv ./static_temp ./static'
+			'mv ./static_temp ./static',
+			'find ./static -type f -exec \\perl -p -i -e \'s/<!-- Mirrored.+GMT -->//g\' {} +'
 		].join('&&')).once('exit', function() {
 			console.log('Built ./static successfully :)');
 			gr.kill();
