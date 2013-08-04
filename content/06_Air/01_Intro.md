@@ -1,0 +1,3 @@
+Air is a single instance of the eventual Yip software which will serve as the public platform, for the reporting and discovery of events that are publicly editable and viewable.
+
+As mentioned, Yip, the software is open-source and installable anywhere, so people can download it and install it for their own private ends. Meanwhile, there is an officially-run public instance of the software which is codenamed *Air*.
