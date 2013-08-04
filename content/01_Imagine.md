@@ -1,6 +1,6 @@
 ## Public
 
-> Imagine a platform where you can discover and monitor events spanning the entire spectrum of human interest. Imagine having at your finger tips the power to know what's happening, here, within a mile, within your town, within your country. Anything of public significance. A fire causing traffic hold-ups. A food market event round the corner. Anything that touches, in both good and bad ways, the lives of those surrounding you.
+> Imagine a platform where you can discover and monitor events spanning the entire spectrum of human interest. Imagine having at your finger tips the power to know what's happening, here, within a mile, within your town, within your country. Anything of public significance. A president elected. A fire causing traffic hold-ups. A food market event round the corner. A war. Anything that touches, in both good or bad ways, the lives of those surrounding you.
 
 ## Personal
 
@@ -8,8 +8,10 @@
 
 ## News
 
-> Now imagine a platform that revolutionises online news media. Imagine tracking a news story, seeing information flowing in live from around the globe, media from people on the ground, facts and statistics as they emerge from history being made. 
+> Now imagine a platform that revolutionises online news media. Imagine tracking a news story, seeing information flowing in live from around the globe, media from people on the ground, facts and statistics as they emerge from history being made. Imagine reporters, fact-checkers and laymen alike collaborating side-by-side on the topics that are important to them.
 
 ### Example of *Air* (a public yip instance):
+
+> Imagine getting a snapshot of what's happening in your city, right now:
 
 <a href="/img/y/MockMap.png"><img src="/img/y/MockMap.png" width=600 /></a>
