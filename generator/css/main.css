@@ -1,4 +1,8 @@
 
+body {
+	background: #EEE;
+}
+
 nav {
 	float: left;
 	position: fixed;
@@ -31,9 +35,10 @@ a.brand:hover, a.brand:focus {
 }
 
 .content {
-	padding: 0 20px 20px 260px;
+	padding: 0 20px 20px 230px;
 	float: left;
 	max-width: 1100px;
+	width: 100%;
 }
 
 .content hr {
@@ -44,14 +49,20 @@ a.brand:hover, a.brand:focus {
 	margin-bottom: 20px;
 }
 
-.ccLicense {
-	position: absolute;
-	bottom: 20px;
-	left: 0;
-	text-align: center;
-	width: 100%;
+.content article {
+	padding: 30px;
+	background: #FFF;
 }
 
-.ccLicense img {
+.footer {
+	margin: 30px 0 0;
+	border-top: 1px solid #CCC;
+	padding-top: 20px;
+	overflow: hidden;
+	text-align: right;
+}
 
+.footer img {
+	float: right;
+	margin-left: 10px;
 }
