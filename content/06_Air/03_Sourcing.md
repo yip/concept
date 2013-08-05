@@ -15,4 +15,4 @@ Our options, in more detail, include:
 
 The only way for us to stay up to date and healthily sourced, especially with **[Emergent Events](/Glossary/Emergent_Event)**, is to have people on the ground using our app, continually telling us what's going on in the world around them.
 
-This is the challenge: *how do we motivate a person to use our app to report an event that they happen upon?* THis is discussed in "**[Appeal: To Reporters](Appeal/To_Reporters)**".
+This is the challenge: *how do we motivate a person to use our app to report an event that they happen upon?* THis is discussed in "**[Appeal](Appeal)**".

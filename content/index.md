@@ -1,10 +1,11 @@
 # Welcome
 
-These documents outline the central concept of Yip.
+---
+**Please note** that these documents are in a continual state of flux. If you have any suggestions please [create an issue](https://github.com/yip/concept/issues) on Github or contribute via a [pull request](https://help.github.com/articles/using-pull-requests). Thanks!
 
 ---
 
-Yip is an endeavour that seeks to:
+These documents outline the central concept of Yip, a concept and piece of software that seeks to:
 
  * Provide humanity with a means to discover what matters
  * Enable crowdsourced and transparent journalism
@@ -18,6 +19,4 @@ We're really interested in and concerned with:
  * "Gamified" Reporting
  * Collaborative Self-Regulation
 
-Yip is looking to change the way people experience, share and discover the things happening around them, both privately and publicly.
-
-Please begin by reading about **[The Problem](/The_Problem/Public_Events/)**.
+Please begin by reading about **[The Problem with Public Events](/Problems/Public_Events)**.
