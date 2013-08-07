@@ -1,3 +1,9 @@
-Air is a single instance of the eventual Yip software which will serve as the public platform, for the reporting and discovery of events that are publicly editable and viewable.
+"*Air*" (*codename*) is a single instance of the eventual Yip software. Is it an extension of all that has been said so far relating to Yip's concept -- but it is especially geared towards the reporting and discovery of events in the public eye.
 
-As mentioned, Yip, the software is open-source and installable anywhere, so people can download it and install it for their own private ends. Meanwhile, there is an officially-run public instance of the software which is codenamed *Air*.
+Eventually, one imagines a person visiting:
+
+ > yip.io/london/NW3
+
+... to find out what's happening in NW3 at that very time.
+
+And that person would perhaps also log on to *yip.io* or the eventual Yip mobile application/webapp to add or contribute to a current event; something local and niche like a "unplanned band playing in the park" or something more global such as "russian president visits Brighton".

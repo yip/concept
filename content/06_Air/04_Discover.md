@@ -1,12 +1,12 @@
-The Discover facet allows the user to find events of the past, present or future that fit a specific set of parameters.
+A central part of Air is *discovery*: the ability of a user to discover events that are happen at a given location at a given time (past, now, future).
 
-The primary view, for example, is a full-screen map of a defined area with interactable pins/panels highlighting events specific to the niche searched for by the user.
+The primary view, one imagines, is a full-screen map of a defined area with interactable pins/panels highlighting events specific to the niche searched for by the user.
 
 *Example search for "popular events in London"*
 
 <a href="/img/y/MockMap.png"><img src="/img/y/MockMap.png" width=600 /></a>
 
-A search via the Discovery facet would allow the following parameters to be defined:
+A search via the Discovery facet would allow the following parameters (*and most probably more*) to be defined:
 
  * Topic / Genre (e.g. "Clubs")
  * Timeline: Beginning

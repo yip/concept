@@ -1,7 +1,7 @@
 The Concept
 =======
 
-This repo outlines the concept of Yip, the software and the public platform.
+This repo outlines the concept of Yip, the software and the public platform. It also serves as a place to [discuss the overall endeavour](https://github.com/yip/concept/issues).
 
 Read it live: **[concept.yip.io](http://concept.yip.io/)**.
 

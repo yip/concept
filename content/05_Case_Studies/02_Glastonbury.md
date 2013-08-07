@@ -25,3 +25,5 @@ Organisers and volunteers will gain credibility, so that their contributions to 
  * Prior proof of credibility (before event)
  * Through previous actions via Yip, proving their reliability
  * Vicarious approval
+
+*(Yet to be completed)*

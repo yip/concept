@@ -1,1 +1,3 @@
 A tech-conference, for example, needs to be able to manage the movements and actions of a vast number of audience members. Doing so via a pre-assembled schedule is sometimes insufficient. It would be nice to be able to communicate a change of plan or an important cancellation or addition to the schedule via a centralised stream. Furthermore, emergent events, such as guest appearances or after-parties, would very much benefit from a collaborative stream where participants could share their insight and media.
+
+*(Yet to be completed)*

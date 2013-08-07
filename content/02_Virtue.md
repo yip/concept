@@ -2,7 +2,7 @@
 
 The purpose of Yip is to:
 
- * Provide humanity with a means to discover what matters
+ * Provide people with a means to discover what matters
  * Enable crowd-sourced and transparent journalism
  * Reinvent streaming for private and public events
 
@@ -12,7 +12,7 @@ Yip is an open-source effort to bring about a new way of reporting and discoveri
 
 We see the world lacking in a medium to convey and discover events. Events of all types, from entertainment and birthday parties to news-streams and disaster timelines.
 
-Human lives are composed of events, large and small, and our effectiveness at recording and discovering these has been hugely lacking. An event is not just a Facebook Album, a Twitter stream, or a blog post. An event is a real-time slice of our lives bounded by a topical consistency and measured by its significance and positiveness. As such, humanity would greatly benefit from a free, open-source and all-encompassing medium for the reporting and archiving these events.
+Human lives are composed of events, large and small, and our effectiveness at recording and discovering these has been hugely lacking. An event is not just a Facebook Album, a Twitter stream, or a blog post. An event is a real-time slice of our lives bounded by a topical consistency and measured by its significance and positiveness. As such, people would greatly benefit from a free, open-source and all-encompassing medium for the reporting and archiving these events.
 
 ### But why "open source" it?
 

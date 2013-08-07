@@ -7,7 +7,7 @@
 
 These documents outline the central concept of Yip, a concept and piece of software that seeks to:
 
- * Provide humanity with a means to discover what matters
+ * Provide people with a means to discover what matters
  * Enable crowdsourced and transparent journalism
  * Reinvent streaming for private and public events
 
