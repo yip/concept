@@ -1,3 +1,0 @@
-Yip is a piece of software that anyone can install on any server (assuming compatibilities), private or publically accessible, that allows its users to report, edit, discover and react to **Real World Events**.
-
-A real world event ...
