@@ -119,7 +119,7 @@ if ($homepage && $homepage_url !== '/') {
 				<a rel="license" title="This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
 					<img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
 				</a>
-				<p>By <a href="http://james.padolsey.com">James Padolsey</a> &amp; <a href="https://github.com/yip/concept/blob/gh-pages/CONTRIBUTORS">contributors</a></p>
+				<p>By <a href="http://james.padolsey.com">James Padolsey</a> &amp; <a href="https://github.com/yip/concept/blob/gh-pages/CONTRIBUTORS">Contributors</a></p>
 			</div>
 	</div>
 </body>
