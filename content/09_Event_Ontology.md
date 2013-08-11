@@ -37,24 +37,42 @@ Examples of Events, from broad to minute:
  * George finds lost slipper
  * ...
 
+### State: Future
+
+An event that has yet to begin.
+
 ### State: Emergent
 
-An **Emergent State** is applied to an Event that is in the process of coming into being or becoming prominent *(syn. nascent)*.
+An event that is emerging; coming into being or becoming prominent *(syn. nascent)*.
 
 It is an Event that is first added to Yip when it is in the process of emerging. Usually these are unplanned, unexpected or previously unknown by the vast public.
 
-This can include:
-
- * A traffic collision
- * An impromptu street performance
- * A train-line closure
- * A celebrity appearing at a premiere
- * A protest outside an embassy
-
-While some of these events were planned, they were only known and expected by a select few. They are considered Emergent because the vast public were not aware of they would happen, and through their coming-to-being the public begin to gain interest and thus the event starts to gain significance and prominence.
-
-Eventually such events stop being Emergent and merely become Current, and eventually Historical.
+An example would be a traffic collision.
 
 ### State: Current
 
-(*yet to be completed*)
+An event that is currently occurring.
+
+### State: Historical
+
+An event that has occurred in the past (*that is completed*).
+
+## Relationships
+
+### Topical
+
+*(The only bidirectional Event Relationship)*
+
+A topical relationship exists when **Event A** is related to **Event B** by virtue of them both sharing a topic, genre or subject. For example, the events *"Royal Baby Born"* and *"Queen visits youth centre"* are topically related because they both concern the Royal Family.
+
+### Causal
+
+A causal relationship exists when **Event B** could not have happened if **Event A** hadn't occurred. It does not represent a sole cause.
+
+For example, *"Snowden granted asylum in Russia"* could not have happened if *"Snowden arrives in Russia"* hadn't happened first -- so there is said to be a causal relationship here.
+
+### Integral
+
+An integral relationship exists when **Event B** exists *within* **Event A**.
+
+For example, *"Second World Trade Centre Tower Collapses"* exists within the event of *"September 11 Attacks"*.

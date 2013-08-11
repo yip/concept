@@ -9,4 +9,6 @@ One can imagine a private or public instance of Yip presenting "TechConf 2013" a
  * Talk #2: Sarah Brown talks about tech
  * etc.
 
+Attendees would be able to add reactions and media to any of these items, or just within the umbrella event itself.
+
 *(Yet to be completed)*
