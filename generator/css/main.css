@@ -66,3 +66,16 @@ a.brand:hover, a.brand:focus {
 	float: right;
 	margin-left: 10px;
 }
+
+.content h2 a {
+	display: none;
+	margin-left: 10px;
+}
+
+.content h2:hover a {
+	display: inline;
+}
+
+.content h2 a::before {
+	content: '»';
+}

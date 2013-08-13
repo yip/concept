@@ -2,7 +2,7 @@ Yip seeks to define an *(initially informal)* [ontology](http://en.wikipedia.org
 
 > In theory, an ontology is a "formal, explicit specification of a shared conceptualisation". An ontology provides a shared vocabulary, which can be used to model a domain, that is, the type of objects and/or concepts that exist, and their properties and relations. *(Source: [Ontology (information science)](http://en.wikipedia.org/wiki/Ontology_(information_science)))*
 
-## Event
+## Event<a id="Event-Section" href="#Event-Section"></a>
 
 An **Event**, as far as Yip is concerned, is a temporal occurrence that takes place in a static or varying real-world location.
 
@@ -57,7 +57,27 @@ An event that is currently occurring.
 
 An event that has occurred in the past (*that is completed*).
 
-## Relationships
+## Report<a id="Report-Section" href="#Report-Section"></a>
+
+A Report is a collection of content centered around a specific Event that is curated by one or more users.
+
+A Report includes:
+
+ * A title
+ * A description
+ * A stream
+
+The reporting stream is updated with different content types, including:
+
+ * Summary
+ * Image
+ * Video
+ * Tweet
+ * Fact/Figure
+ * Location
+ * Quote
+
+## Relationships<a id="Relationships-Section" href="#Relationships-Section"></a>
 
 ### Topical
 
