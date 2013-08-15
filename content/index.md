@@ -8,15 +8,15 @@
 These documents outline the central concept of Yip, a concept and piece of software that seeks to:
 
  * Provide people with a means to discover what matters
- * Enable crowdsourced and transparent journalism
- * Reinvent streaming for private and public events
+ * Enable transparent participatory journalism
+ * Reinvent streaming for private and public event reporting
 
 We're really interested in and concerned with:
 
  * Free & Open Source Software
- * Privacy & Transparency
- * Democratic Journalism
- * "Gamified" Reporting
+ * Personal Privacy & Public Transparency
+ * Democratic & Participatory Journalism
+ * "Gamified" Reporting & Discovery
  * Collaborative Self-Regulation
 
 Please begin by reading about **[The Problem with Public Events](/Problems/Public_Events)**.
