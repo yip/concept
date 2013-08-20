@@ -2,11 +2,9 @@
 
 ---
 
-> The [Glastonbury Festival of Contemporary Performing Arts](https://en.wikipedia.org/wiki/Glastonbury_Festival) is a performing arts festival that takes place near Pilton, Somerset, England, best known for its contemporary music, but also for dance, comedy, theatre, circus, cabaret and other arts.
+> The [Glastonbury Festival of Contemporary Performing Arts](https://en.wikipedia.org/wiki/Glastonbury_Festival) takes place near Pilton, Somerset, England. It is best known for its contemporary music, but also for dance, comedy, theatre, circus, cabaret and other arts.
 
-The festival lasts for three or four days. Paying festival goers, amounting to nearly 175,000 in 2013, stay in tents, caravans and motorhomes and, throughout the four days, will attend not only the primary musical lineup but also many of the smaller events occuring, such as theatrical performances, circus acts and other musical performances.
-
-An event-goer will want to absorb as much of the event as possible, and will probably have a few events and lineups earmarked for viewing. 
+The festival lasts for three or four days. Paying festival goers, amounting to nearly 175,000 in 2013, stay in tents, caravans and motor-homes and, throughout the four days, will attend not only the primary musical lineup but also many of the smaller events occurring, such as theatrical performances, circus acts and secondary musical performances.
 
 The logistical managers and volunteers that run the event have a massive project both in ferrying people to and from the campsite, and within, in additon to managing accommodation, regular flow of events, uninterrupted lineups, quick accident recovery etc.
 
@@ -18,12 +16,10 @@ There is no doubt that such an event would benefit from Yip in the following way
   * Photos / Videos
   * Reactions / Comments / Tweets
 
-There would be an umbrella "Glastonbury 2013" stream, publicly collaborated, containing integral event streams within: E.g. Arcadia would be a integral (sub) event within "Glastonbury 2013".
+There could be an official report being streamed from the organizers themselves -- this could contain any information that the goers would benefit from.
 
-Organisers and volunteers will gain credibility, so that their contributions to the stream are automatically verified and promoted, via a number of methods:
+Individual event-goers would also curate reports, gathering real-time media through their experiences. 
 
- * Prior proof of credibility (before event)
- * Through previous actions via Yip, proving their reliability
- * Vicarious approval
+Dozens of reports -- dozens of perspectives -- could be drawn together to create a real-time mashup experience where you can see the varied experiences of GLastonbury happening in realtime from any where in the world.
 
-*(Yet to be completed)*
+It would have massive archival value too, both for the event organisers (future marketing material), and for the event-goers (memories), not to mention the journalistic value for all the people not able to attend.
