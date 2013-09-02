@@ -1,1 +1,1 @@
-See https://github.com/yip/concept/issues/4
+See the live Github Issue: [Use Case Collection](https://github.com/yip/concept/issues/4)
