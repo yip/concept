@@ -10,9 +10,11 @@ The purpose of Yip is to:
 
 Yip is an open-source endeavour with the goal of bringing about a new way of reporting and discovering events in real-time.
 
-We see the world lacking in a medium to convey and discover events. Events of all types, from entertainment and birthday parties to news-streams and disaster timelines.
+The world lacking in a medium to convey and discover events. Events of all types, from entertainment and birthday parties to news-streams and disaster timelines.
 
-Human lives are composed of events, large and small, and our effectiveness at recording and discovering these has been hugely lacking. An event is not just a Facebook Album, a Twitter stream, or a blog post. An event is a real-time slice of our lives bounded by a topical consistency and measured by its significance and positiveness. As such, people would greatly benefit from a free, open-source and all-encompassing medium for the reporting and archiving of these events.
+Human lives are composed of events, large and small. Recording and discovering these is central to the human condition within civilisation. An event is not just a Facebook Album, a Twitter stream, or a blog post. An event is a real-time slice of our lives. We measure it by its significance and the emotions it instils.
+
+A medium that provides access to the events happening around us in any moment is severely lacking. People would greatly benefit from such a thing though. An open-source and all-encompassing medium for the reporting and archiving of these events would be of great utlity.
 
 ### But why "open source" it?
 
@@ -35,7 +37,7 @@ We see that not everything that is good, wholesome or otherwise beneficial for h
 
 A commercial project of a similar genre would likely have to focus on a specific niche of events and a particular demographic, and it would have to gear the interface towards monetization, whether in the form of advetisement, tiered access or sponsored events. Yip is concerned with all genres and all use-cases and doesn't want to limit its users in any way.
 
-Eventually there may be an opportunity to create healthy commercial partnerships but initially the endeavour is very much focused on being open, transparent and fundamentally non-commercial.
+Eventually there may be an opportunity to create healthy commercial partnerships but initially the endeavour is very much focused on being open, transparent and non-commercial.
 
 ### Semantic Web
 
@@ -45,6 +47,6 @@ Yip is dedicated to uphold the ideals and tenets of the [Semantic Web](http://en
  * Vagueness: Yip endeavours to retain semantics in its data input UX
  * Uncertainty: The wiki-like nature evolves towards truth and assured credibility
  * Inconsistency: Is is unavoidable but will be moderated and presented transparently
- * Deceit: Gamified self-regulation should help tackle this
+ * Deceit: Gamified self-regulation and moderation will help tackle this
 
-Yip seeks to provide a central [ontology](http://en.wikipedia.org/wiki/Ontology_(information_science)) for event-related information in the real world (See [Glossary: Event](/Glossary/Event)).
+Yip seeks to provide a central [ontology](http://en.wikipedia.org/wiki/Ontology_(information_science)) for event-related information in the real world (See [Glossary: Event](/Ontology.html#Event-Section)).
