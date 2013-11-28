@@ -61,21 +61,15 @@ An event that has occurred in the past (*that is completed*).
 
 A Report is a collection of content centered around a specific Event that is curated by one or more users.
 
-A Report includes:
+A report contains an overview of any given event, formed by a series of updates. It is automatically formed from its integral updates and data into something which will include:
 
- * A title
- * A description
- * A stream
+ * Event summary + any unique details
+ * Facts/Figures relating to the event with optional (but recommended) sources/media
+ * Event imagery / videos / recordings etc.
+ * Event location shown on map along with integral events
+ * Reports that are topically, temporally or physically related in some way
 
-The reporting stream is updated with different content types, including:
-
- * Summary
- * Image
- * Video
- * Tweet
- * Fact/Figure
- * Location
- * Quote
+Todo: Further expand.
 
 ## Relationships<a id="Relationships-Section" href="#Relationships-Section"></a>
 
@@ -85,7 +79,7 @@ The reporting stream is updated with different content types, including:
 
 A topical relationship exists when **Event A** is related to **Event B** by virtue of them both sharing a topic, genre or subject. For example, the events *"Royal Baby Born"* and *"Queen visits youth centre"* are topically related because they both concern the Royal Family.
 
-### Causal
+### Causal / Physical
 
 A causal relationship exists when **Event B** could not have happened if **Event A** hadn't occurred. It does not represent a sole cause.
 
@@ -96,3 +90,5 @@ For example, *"Snowden granted asylum in Russia"* could not have happened if *"S
 An integral relationship exists when **Event B** exists *within* **Event A**.
 
 For example, *"Second World Trade Centre Tower Collapses"* exists within the event of *"September 11 Attacks"*.
+
+These are harder to draw automatically but are valuable in hindsight.

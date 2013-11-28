@@ -47,4 +47,4 @@ Yip is dedicated to uphold the ideals and tenets of the [Semantic Web](http://en
  * Inconsistency: Is is unavoidable but will be moderated and presented transparently
  * Deceit: Gamified self-regulation should help tackle this
 
-Yip seeks to provide a central [ontology](http://en.wikipedia.org/wiki/Ontology_(information_science)) for event-related information in the real world (See [Glossary: Event](/Glossary/Event)).
+Yip seeks to provide a central [ontology](http://en.wikipedia.org/wiki/Ontology_(information_science)) for event-related information in the real world (See [Ontology: Event](/Ontology/#Event-Section)).

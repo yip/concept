@@ -1,4 +1,4 @@
-Within Yip Conglomeration is the process of drawing various reports of a single event together.
+Conglomeration is the process of drawing various reports of a single event together.
 
 Reports are gauged against each-other on account of their similarity in the following areas:
 

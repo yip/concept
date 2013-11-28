@@ -9,7 +9,7 @@ gr.stdout.once('data', function(data) {
 		'rm -rf static',
 		'mkdir ./static',
 		'cd ./static',
-		'httrack --continue --clean --max-rate=250000 http://localhost:8085'
+		'httrack --continue --clean --max-rate=250000 http://localhost:8086'
 	].join('&&'));
 
 	httrack.on('exit', function() {
@@ -17,7 +17,7 @@ gr.stdout.once('data', function(data) {
 
 		exec([
 			// Get actual mirrored site and save in ./static/
-			'mv ./static/localhost_8085 ./static_temp',
+			'mv ./static/localhost_8086 ./static_temp',
 			'rm -rf ./static',
 			'mv ./static_temp ./static',
 			'find ./static -type f -exec \\perl -p -i -e \'s/<!-- Mirrored.+GMT -->//g\' {} +'

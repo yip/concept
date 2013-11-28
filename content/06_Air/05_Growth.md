@@ -1,4 +1,5 @@
-
+Note: These are necessarily arbitrary for now.
+Todo: Further research into what kind of urban environments would best benefit from Yip.
 
 ### Short Term Goals
 
